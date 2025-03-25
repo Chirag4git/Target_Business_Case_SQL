@@ -27,6 +27,15 @@ The data is available in 8 different csv files:
 4. **Customer Demographics** – Segmenting customers based on location, order frequency, and purchase patterns.
 5. **Product Characteristics & Satisfaction** – Understanding which products have the highest ratings and which need improvement.
 
+## Concepts Used:
+- Data Cleaning & Transformation
+- Joins & Relationships
+- Aggregation & Grouping
+- Filtering & Conditional Queries
+- Window Functions
+- Subqueries & CTEs
+
+
 
 
 
